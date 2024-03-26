@@ -1,0 +1,303 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1711440094735871, "dur":57, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094735960, "dur":2300, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094738269, "dur":374, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094738685, "dur":429, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094739252, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1711440094739837, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1711440094741374, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1711440094741591, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1711440094739145, "dur":2983, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094742129, "dur":165421, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094907550, "dur":297, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094907971, "dur":1056, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1711440094739350, "dur":2788, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711440094742141, "dur":3014, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711440094745196, "dur":3636, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1711440094748839, "dur":6053, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1711440094754893, "dur":5257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1711440094745196, "dur":15285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1711440094760647, "dur":62, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1711440094760988, "dur":142746, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1711440094904442, "dur":2308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1711440094904441, "dur":2310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1711440094906765, "dur":591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1711440094739438, "dur":2729, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094742170, "dur":297, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094742468, "dur":2725, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094745229, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094750645, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094747535, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1711440094750811, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094751212, "dur":2982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094754234, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094754343, "dur":3358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094757715, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094757799, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094760945, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094761017, "dur":3407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094764476, "dur":2882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094767376, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1711440094767447, "dur":3190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094770670, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1711440094773557, "dur":7641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1711440094781206, "dur":126192, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094739382, "dur":2764, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094742148, "dur":288, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094742437, "dur":2741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094745199, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094750678, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094747568, "dur":3213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1711440094750795, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094751237, "dur":2895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094754202, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094757752, "dur":3601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094761441, "dur":3181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094764637, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1711440094764715, "dur":3210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094768011, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094771318, "dur":4212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1711440094775677, "dur":3123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1711440094778817, "dur":128596, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094739403, "dur":2749, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094742156, "dur":234, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094742391, "dur":2774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094745194, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094747559, "dur":2719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1711440094750712, "dur":5897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1711440094756636, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094756635, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094756955, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094757028, "dur":3490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094760536, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094760685, "dur":5081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094765777, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094765854, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094768743, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094768938, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094772307, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1711440094772382, "dur":3297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1711440094775703, "dur":131835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094739432, "dur":2728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094742163, "dur":209, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094742373, "dur":2868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094745263, "dur":400, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094748341, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1711440094751929, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094749880, "dur":2181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1711440094752100, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094752187, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094752261, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094755427, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094755629, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094758600, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1711440094758740, "dur":3835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094762644, "dur":5204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094767925, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094771064, "dur":4353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1711440094775541, "dur":3297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1711440094778846, "dur":128742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094739465, "dur":2712, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094742184, "dur":234, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094742418, "dur":2767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094745213, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094747341, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1711440094749172, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1711440094751157, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094753698, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094753760, "dur":1866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094755636, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094755636, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094756009, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094756219, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094759063, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1711440094759187, "dur":3811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094763072, "dur":4770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094767933, "dur":3187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094771186, "dur":2936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1711440094774150, "dur":3851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1711440094778012, "dur":129471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094739494, "dur":2696, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094742197, "dur":234, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094742431, "dur":2776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094745225, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094747855, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1711440094751022, "dur":3438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094754545, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094757415, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094757414, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094757624, "dur":2908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094760607, "dur":3487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094764160, "dur":3005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094767203, "dur":3119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094770333, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094770405, "dur":2700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094773116, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094777794, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1711440094773222, "dur":4675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1711440094777935, "dur":129577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094739519, "dur":2681, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094742203, "dur":236, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094742439, "dur":2734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094745223, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094745534, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094747445, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1711440094750383, "dur":3005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1711440094753479, "dur":2140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094755630, "dur":429, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094755629, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094756061, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094756194, "dur":2588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094758839, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094762641, "dur":4976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094767687, "dur":2986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094770684, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1711440094770785, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1711440094773948, "dur":2094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1711440094776052, "dur":131479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094739539, "dur":2687, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094742227, "dur":87, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094742315, "dur":2915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094745238, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1711440094745231, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1711440094745371, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094748114, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1711440094750602, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094751156, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094754141, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094758104, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094758231, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094761853, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094761932, "dur":2985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094764984, "dur":3153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094768210, "dur":3310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094771542, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1711440094771670, "dur":3049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1711440094774909, "dur":2654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1711440094777576, "dur":130078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094739576, "dur":2652, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094742229, "dur":2934, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094745217, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094748193, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1711440094750455, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094750670, "dur":113, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094751171, "dur":4472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094755653, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094755653, "dur":311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094756027, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094759675, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094763068, "dur":3224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094766310, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094766439, "dur":3201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094769688, "dur":3120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094777258, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1711440094772850, "dur":4517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1711440094777391, "dur":130300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094739621, "dur":2615, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094742236, "dur":3001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094745256, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094748203, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1711440094750355, "dur":4035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094754421, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094754610, "dur":3492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094758175, "dur":3658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094761843, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094761910, "dur":2986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094764915, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094764981, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094768194, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094771593, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1711440094771693, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1711440094774788, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1711440094778162, "dur":129293, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094739706, "dur":2540, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094742246, "dur":2925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094747502, "dur":2620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1711440094750495, "dur":9644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094760180, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094760267, "dur":3383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094763661, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094763795, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094766669, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094766778, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094769861, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1711440094769943, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094773057, "dur":4524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1711440094777611, "dur":129905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094739745, "dur":2506, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094742251, "dur":2958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094745232, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094750607, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094748116, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1711440094750764, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094753539, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094751208, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094753744, "dur":2371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094756143, "dur":566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094756142, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094756712, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094756809, "dur":3556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094760416, "dur":5102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094765555, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094768630, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094768717, "dur":2881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094771668, "dur":2901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1711440094774585, "dur":296, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1711440094774894, "dur":3536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":13, "ts":1711440094778441, "dur":128976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094739789, "dur":2468, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094742258, "dur":2903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094745720, "dur":4753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1711440094750484, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094751056, "dur":3145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094754217, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094754329, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094757508, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094757508, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094757657, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094760547, "dur":5416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094765992, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1711440094766083, "dur":3030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094769167, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094772267, "dur":2504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1711440094774806, "dur":4705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1711440094779520, "dur":128053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094739824, "dur":2437, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094742261, "dur":2899, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094745201, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094746032, "dur":2326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1711440094748647, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1711440094750236, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D.exe" }}
+,{ "pid":12345, "tid":15, "ts":1711440094751297, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094754070, "dur":2532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094756620, "dur":288, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity proyect\\Driving3D\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094756619, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094756966, "dur":3425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094760431, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094760538, "dur":3533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094764082, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094764157, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094767250, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1711440094767359, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094770453, "dur":2838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094773342, "dur":19959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1711440094793314, "dur":114237, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094739880, "dur":2384, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094742264, "dur":2956, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094745249, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094748106, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1711440094753867, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094749894, "dur":4183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1711440094754156, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094754243, "dur":3693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094758022, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094761506, "dur":3415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094764936, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094765056, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094768242, "dur":3285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094771540, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1711440094771675, "dur":3053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1711440094774921, "dur":3571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E:/Build unity/Demo proyecto practica/Driving3D_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1711440094778512, "dur":129131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1711440094910909, "dur":680, "ph":"X", "name": "ProfilerWriteOutput" }
+,
